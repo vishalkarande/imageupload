@@ -5,11 +5,11 @@
 #### Php File :
 
 * Index.php : Has all Code
-* config.php : Has Images
+* config.php : Has Database Connection
 
 #### Database
 
-* imgupload : One Table Image
+* imgupload : Database with One Table Image
 
 #### Sub-Folder
 
